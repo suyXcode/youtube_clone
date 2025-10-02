@@ -7,7 +7,7 @@ This project demonstrates how static assets (**HTML, CSS, JS, Images, and Videos
 
 ## 📌 Architecture Diagram  
 
-![diagram](diagram.png)  
+![diagram](diagram(4).png)  
 
 ## 📖 How It Works  
 
@@ -52,11 +52,7 @@ This project demonstrates how static assets (**HTML, CSS, JS, Images, and Videos
 - **Images** → `img/, img1/`  
 - **Videos** → `Radhe Govinda.mp4`, `Rait Zara Si.mp4`, `Pal.mp4`  
 
-## 🚀 Deployment Options  
 
-- **Nginx / Apache** (Custom Static Hosting)  
-- **GitHub Pages** (Free static hosting for projects)  
-- **CDN Integration** (Cloudflare, AWS CloudFront, Akamai, etc.)  
 
 ## ✅ Benefits  
 
