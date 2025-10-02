@@ -7,7 +7,7 @@ This project demonstrates how static assets (**HTML, CSS, JS, Images, and Videos
 
 ## 📌 Architecture Diagram  
 
-![diagram](diagram(4).png)  
+![diagram](diagram.png)  
 
 ## 📖 How It Works  
 
